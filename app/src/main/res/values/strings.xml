@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConnectThree</string>
+
+    <string name="main_btn_connectThree">Play Connect Three</string>
+
+    <string name="ct_btn_back">Back</string>
+    <string name="ct_btn_reset">Reset Game</string>
+    <string name="ct_tv_state">Player 1 turn</string>
+    <string name="ct_btn_drop">▼</string>
+    <string name="ct_tv_tip">Click the \'▼\' to play</string>
+</resources>
